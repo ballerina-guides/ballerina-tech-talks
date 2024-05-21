@@ -13,27 +13,27 @@ The code sample used in the tech talk is in the `movie_rating_system` directory.
 
 This is a simple movie rating system implemented using Ballerina, GraphQL, and MongoDB. The system allows users to add movies and rate them. This system demonstrates how to use a MongoDB database and expose it via a GraphQL API using Ballerina.
 
-## Prerequisites
+### Prerequisites
 
 - Download and install [Ballerina](https://ballerina.io/downloads/).
 - Download and install [MongoDB](https://www.mongodb.com/try/download/community). (This repo includes a docker-compose file to run MongoDB in a Docker container locally.)
 - A code editor; preferably [VS Code](https://code.visualstudio.com/) with [Ballerina extension](https://marketplace.visualstudio.com/items?itemName=wso2.ballerina) installed.
 
-## Implementation
+### Implementation
 
 This system consists of the following components:
 
-### Datasource
+#### Datasource
 
 This system uses a MongoDB database to store movie data. The database connectivity is handled through a separate Ballerina submodule named `datasource`. This submodule contains the MongoDB client and the necessary configurations to connect to the MongoDB database.
 
-### GraphQL API
+#### GraphQL API
 
 The GraphQL API is implemented using Ballerina's GraphQL module. The GraphQL API is implemented in the default Ballerina module.
 
 The GraphQL API uses caching and dataloader functionalities to optimize the performance of the system. The caching is used to cache the results of the queries and the dataloader is used to batch and cache the results of the queries. Caching is disabled for the `email` field in the `User` type to demonstrate how to disable caching for specific fields. The dataloader is used to batch the queries to the MongoDB database.
 
-#### Obtaining the GraphQL Schema
+##### Obtaining the GraphQL Schema
 
 This repo uses the code-first approach to define the GraphQL schema. The schema is auto-generated at compile time by the Ballerina GraphQL package. The generated schema can be written to a file by using the Ballerina GraphQL CLI tool. To generate the schema file, move to the root directory of the project and run the following command.
 
@@ -43,7 +43,7 @@ bal graphql -i service.bal
 
 This will generate a `schema_service.graphql` file in the root directory of the project.
 
-## Running the Project
+### Running the Project
 
 1. Clone the repository by running the following command.
 
@@ -86,9 +86,9 @@ This will generate a `schema_service.graphql` file in the root directory of the 
 
 6. The GraphQL API will be exposed at `http://localhost:9090`. If the GraphiQL is enabled (via the `Config.toml` file), you can access the GraphiQL interface at `http://localhost:9090/graphiql`.
 
-## Sample Operations
+### Sample Operations
 
-### Add a Movie
+#### Add a Movie
 
 ```graphql
 mutation AddMovie($movie: MovieInput!) {
@@ -116,7 +116,7 @@ The request should also include the `userId` in the HTTP headers to authenticate
 
 >**Note:** In the GraphiQL client, the HTTP headers can be set under the `header` section.
 
-### Review a Movie
+#### Review a Movie
 
 ```graphql
 mutation ReviewMovie($review: ReviewInput!) {
@@ -140,7 +140,7 @@ To review a movie, the following variable should be passed.
 
 The request should also include the `userId` in the headers to authenticate the request.
 
-### List all the Movies
+#### List all the Movies
 
 ```graphql
 Query GetAllMovies {
@@ -167,7 +167,7 @@ Query GetAllMoviesWithDirector {
 }
 ```
 
-### List all the Movies by a Director
+#### List all the Movies by a Director
 
 ```graphql
 Query GetMoviesByDirector {
@@ -181,7 +181,7 @@ Query GetMoviesByDirector {
 }
 ```
 
-## Observability
+### Observability
 
 This example includes observability support from the built-in observability features in the Ballerina GraphQL package. To enable observability, follow the steps below.
 
