@@ -45,16 +45,21 @@ This will generate a `schema_service.graphql` file in the root directory of the 
 
 ### Running the Project
 
-1. Clone the repository by running the following command.
+1. Clone the tech talk content
 
     ```bash
-    git clone https://github.com/ThisaruGuruge/movie-rating-system.git
+    git clone -n --depth=1 --filter=tree:0 https://github.com/ballerina-guides/ballerina-tech-talks.git
+    cd ballerina-tech-talks
+    git sparse-checkout set --no-cone 2024-april
+    cd 2024-april
     ```
 
-2. Navigate to the cloned repository.
+    >**Note**: These steps are to clone the specific directory for this tech talk. You can clone the whole repository if needed.
+
+2. Navigate to the `movie_rating_system` directory.
 
     ```bash
-    cd movie-rating-system
+    cd movie_rating_system
     ```
 
 3. Add the `Config.toml` file to the root directory of the project with the following content. You can change the configurations as needed.
