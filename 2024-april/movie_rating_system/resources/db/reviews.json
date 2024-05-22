@@ -1,0 +1,949 @@
+{
+    "reviews": [
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b20",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "1",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b21",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "1",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b22",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "1",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b23",
+            "description": "Nolan at his best",
+            "score": 5,
+            "movieId": "1",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b24",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "1",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b25",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "2",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b26",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "2",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b27",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "2",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b28",
+            "description": "Better than the book",
+            "score": 3,
+            "movieId": "2",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b29",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "2",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b30",
+            "description": "Flop",
+            "score": 1,
+            "movieId": "3",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b31",
+            "description": "Couldn't watch it till the end",
+            "score": 2,
+            "movieId": "3",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b32",
+            "description": "Nice one",
+            "score": 4,
+            "movieId": "3",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b33",
+            "description": "Not worth the time",
+            "score": 2,
+            "movieId": "3",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b34",
+            "description": "Total waste of time",
+            "score": 2,
+            "movieId": "3",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b35",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "4",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b36",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "4",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b37",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "4",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b38",
+            "description": "Amazing!",
+            "score": 5,
+            "movieId": "4",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b39",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "4",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b40",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "5",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b41",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "5",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b42",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "5",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b43",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "5",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b44",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "5",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b45",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "6",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b46",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "6",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b47",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "6",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b48",
+            "description": "Fantasy at its best",
+            "score": 5,
+            "movieId": "6",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b49",
+            "description": "Better than the book",
+            "score": 5,
+            "movieId": "6",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b50",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "7",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b51",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "7",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b52",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "7",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b53",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "7",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b54",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "7",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b55",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "8",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b56",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "8",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b57",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "8",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b58",
+            "description": "A cult classic",
+            "score": 5,
+            "movieId": "8",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b59",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "8",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b60",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "9",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b61",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "9",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b62",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "9",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b63",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "9",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b64",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "9",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b65",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "10",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b66",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "10",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b67",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "10",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b68",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "10",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b69",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "10",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b70",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "11",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b71",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "11",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b72",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "11",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b73",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "11",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b74",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "11",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b75",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "12",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b76",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "12",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b77",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "12",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b78",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "12",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b79",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "12",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b80",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "13",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b81",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "13",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b82",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "13",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b83",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "13",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b84",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "13",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b85",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "14",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b86",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "14",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b87",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "14",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b88",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "14",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b89",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "14",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b90",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "15",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b91",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "15",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b92",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "15",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b93",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "15",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b94",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "15",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b95",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "16",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b96",
+            "description": "Don't watch this; Waste of time",
+            "score": 1,
+            "movieId": "16",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b97",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "16",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b98",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "16",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b99",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "16",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b100",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "17",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b101",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "17",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b102",
+            "description": "Breathtaking and thrilling",
+            "score": 2,
+            "movieId": "17",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b103",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "17",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b104",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "17",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b105",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "18",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b106",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "18",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b107",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "18",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b108",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "18",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b109",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "18",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b110",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "19",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b111",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "19",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b112",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "19",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b113",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "19",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b114",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "19",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b115",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "20",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b116",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "20",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b117",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "20",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b118",
+            "description": "Not worth the time or the money",
+            "score": 2,
+            "movieId": "20",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b119",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "20",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b120",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "21",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b121",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "21",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b122",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "21",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b123",
+            "description": "A must watch",
+            "score": 5,
+            "movieId": "21",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b124",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "21",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b125",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "22",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b126",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "22",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b127",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "22",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b128",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "22",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b129",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "22",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b130",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "23",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b131",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "23",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b132",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "23",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b133",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "23",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b134",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "23",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b135",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "24",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b136",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "24",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b137",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "24",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b138",
+            "description": "A must watch",
+            "score": 3,
+            "movieId": "24",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b139",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "24",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b140",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "25",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b141",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "25",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b142",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "25",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b143",
+            "description": "A must watch",
+            "score": 5,
+            "movieId": "25",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b144",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "25",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b145",
+            "description": "A Great movie!",
+            "score": 5,
+            "movieId": "26",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b146",
+            "description": "Mindblowing movie",
+            "score": 5,
+            "movieId": "26",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b147",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "26",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b148",
+            "description": "A must watch",
+            "score": 5,
+            "movieId": "26",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b149",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "26",
+            "userId": "5"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b150",
+            "description": "A Great movie!",
+            "score": 4,
+            "movieId": "27",
+            "userId": "1"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b151",
+            "description": "Mindblowing movie",
+            "score": 4,
+            "movieId": "27",
+            "userId": "2"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b152",
+            "description": "Breathtaking and thrilling",
+            "score": 4,
+            "movieId": "27",
+            "userId": "3"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b153",
+            "description": "A must watch",
+            "score": 5,
+            "movieId": "27",
+            "userId": "4"
+        },
+        {
+            "id": "6f076daa-a80f-447d-9467-1c0ad1046b154",
+            "description": "Cast is amazing",
+            "score": 5,
+            "movieId": "27",
+            "userId": "5"
+        }
+    ]
+}

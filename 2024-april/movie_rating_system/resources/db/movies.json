@@ -1,0 +1,193 @@
+{
+    "movies": [
+        {
+            "id": "1",
+            "title": "Inception",
+            "year": 2010,
+            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "directorId": "1"
+        },
+        {
+            "id": "2",
+            "title": "The Dark Knight",
+            "year": 2008,
+            "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+            "directorId": "1"
+        },
+        {
+            "id": "3",
+            "title": "The Matrix",
+            "year": 1999,
+            "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "directorId": "7"
+        },
+        {
+            "id": "4",
+            "title": "The Lord of the Rings: The Return of the King",
+            "year": 2003,
+            "description": "Gandalf and Aragorn lead the World of Hobbits against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+            "directorId": "2"
+        },
+        {
+            "id": "5",
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "directorId": "3"
+        },
+        {
+            "id": "6",
+            "title": "The Godfather",
+            "year": 1972,
+            "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "directorId": "4"
+        },
+        {
+            "id": "7",
+            "title": "The Godfather: Part II",
+            "year": 1974,
+            "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+            "directorId": "4"
+        },
+        {
+            "id": "8",
+            "title": "The Dark Knight Rises",
+            "year": 2012,
+            "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal criminal known as Bane.",
+            "directorId": "1"
+        },
+        {
+            "id": "9",
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "year": 2001,
+            "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+            "directorId": "2"
+        },
+        {
+            "id": "10",
+            "title": "The Lord of the Rings: The Two Towers",
+            "year": 2002,
+            "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+            "directorId": "2"
+        },
+        {
+            "id": "11",
+            "title": "The Matrix Reloaded",
+            "year": 2003,
+            "description": "Neo and his allies are pitted against the machines in a war that has lasted for centuries.",
+            "directorId": "7"
+        },
+        {
+            "id": "12",
+            "title": "The Matrix Revolutions",
+            "year": 2003,
+            "description": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+            "directorId": "7"
+        },
+        {
+            "id": "13",
+            "title": "Interstellar",
+            "year": 2014,
+            "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+            "directorId": "1"
+        },
+        {
+            "id": "14",
+            "title": "The Prestige",
+            "year": 2006,
+            "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+            "directorId": "1"
+        },
+        {
+            "id": "15",
+            "title": "Memento",
+            "year": 2000,
+            "description": "A man with short-term memory loss attempts to track down his wife's killer.",
+            "directorId": "1"
+        },
+        {
+            "id": "16",
+            "title": "The Departed",
+            "year": 2006,
+            "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+            "directorId": "5"
+        },
+        {
+            "id": "17",
+            "title": "The Green Mile",
+            "year": 1999,
+            "description": "The lives of guards on Death Row are affected by one of their charges",
+            "directorId": "3"
+        },
+        {
+            "id": "18",
+            "title": "Delhi Belly",
+            "year": 2011,
+            "description": "Three unsuspecting, average guys find themselves on the hit list of one of India's most-powerful crime syndicates.",
+            "directorId": "6"
+        },
+        {
+            "id": "19",
+            "title": "The Social Network",
+            "year": 2010,
+            "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+            "directorId": "7"
+        },
+        {
+            "id": "20",
+            "title": "Lock, Stock and Two Smoking Barrels",
+            "year": 1998,
+            "description": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
+            "directorId": "8"
+        },
+        {
+            "id": "21",
+            "title": "Pulp Fiction",
+            "year": 1994,
+            "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "directorId": "9"
+        },
+        {
+            "id": "22",
+            "title": "The Hateful Eight",
+            "year": 2015,
+            "description": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
+            "directorId": "9"
+        },
+        {
+            "id": "23",
+            "title": "Django Unchained",
+            "year": 2012,
+            "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+            "directorId": "9"
+        },
+        {
+            "id": "24",
+            "title": "Reservoir Dogs",
+            "year": 1992,
+            "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+            "directorId": "9"
+        },
+        {
+            "id": "25",
+            "title": "Kill Bill: Vol. 1",
+            "year": 2003,
+            "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+            "directorId": "9"
+        },
+        {
+            "id": "26",
+            "title": "Kill Bill: Vol. 2",
+            "year": 2004,
+            "description": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+            "directorId": "9"
+        },
+        {
+            "id": "27",
+            "title": "Inglourious Basterds",
+            "year": 2009,
+            "description": "A group of U.S. soldiers sneaks behind enemy lines to kill Hitler",
+            "directorId": "9"
+        }
+    ]
+}

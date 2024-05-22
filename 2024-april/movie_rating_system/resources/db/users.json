@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "John Doe",
+            "email": "john@sample.com",
+            "roles": ["admin", "user"]
+        },
+        {
+            "id": "2",
+            "name": "Jane Doe",
+            "email": "jane@sample.com",
+            "roles": ["user"]
+        },
+        {
+            "id": "3",
+            "name": "Jim Doe",
+            "email": "jim@sample.com",
+            "roles": ["user"]
+        },
+        {
+            "id": "4",
+            "name": "Jill Doe",
+            "email": "jill@sample.com",
+            "roles": ["user"]
+        },
+        {
+            "id": "5",
+            "name": "Jack Doe",
+            "email": "jack@sample.com",
+            "roles": ["user"]
+        }
+    ]
+}

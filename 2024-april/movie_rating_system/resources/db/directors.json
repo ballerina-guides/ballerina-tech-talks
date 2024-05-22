@@ -1,0 +1,49 @@
+{
+    "directors": [
+        {
+            "id": "1",
+            "name": "Christopher Nolan",
+            "bio": "Best known for his unique storytelling, Christopher Nolan is one of the most acclaimed directors of the 21st century. He has directed some of the most successful and critically acclaimed movies of all time."
+        },
+        {
+            "id": "2",
+            "name": "Peter Jackson",
+            "bio": "Peter Jackson is a New Zealand film director, screenwriter, and film producer. He is best known as the director, writer, and producer of the Lord of the Rings trilogy and the Hobbit trilogy."
+        },
+        {
+            "id": "3",
+            "name": "Frank Darabont",
+            "bio": "Frank Darabont is an American film director, screenwriter, and producer. He is best known for directing the movies The Shawshank Redemption, The Green Mile, and The Mist."
+        },
+        {
+            "id": "4",
+            "name": "Francis Ford Coppola",
+            "bio": "Francis Ford Coppola is an American film director, producer, and screenwriter. He is best known for directing the Godfather trilogy and Apocalypse Now."
+        },
+        {
+            "id": "5",
+            "name": "Martin Scorsese",
+            "bio": "Martin Scorsese is an American film director, producer, screenwriter, and actor. He is widely regarded as one of the greatest directors in the history of cinema."
+        },
+        {
+            "id": "6",
+            "name": "Abhinay Deo",
+            "bio": "Abhinay Deo is an Indian film director and screenwriter. He is best known for directing the movies Delhi Belly and Force 2."
+        },
+        {
+            "id": "7",
+            "name": "David Fincher",
+            "bio": "David Fincher is an American film director, producer, and screenwriter. He is best known for directing the movies Fight Club, Se7en, The Social Network, and a number of music videos."
+        },
+        {
+            "id": "8",
+            "name": "Guy Ritchie",
+            "bio": "Guy Ritchie is an English film director, producer, and screenwriter. He is best known for directing the movies Lock, Stock and Two Smoking Barrels, Snatch, and Sherlock Holmes."
+        },
+        {
+            "id": "9",
+            "name": "Quentin Tarantino",
+            "bio": "Quentin Tarantino is an American film director, screenwriter, producer, and actor. He is best known for directing the movies Pulp Fiction, Reservoir Dogs, Kill Bill, and Django Unchained."
+        }
+    ]
+}
