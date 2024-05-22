@@ -9,9 +9,9 @@ _Link_: [YouTube](https://www.youtube.com/watch?v=hkOMet6bF70)
 
 > This sample was written using Ballerina Swan Lake Update 9 (2201.9.0)
 
-The code sample used in the tech talk is in the `movie_rating_system` directory.
+The code sample used in the tech talk is in the [`movie_rating_system`](https://github.com/ballerina-platform/ballerina-tech-talks/tree/main/2024-april/movie_rating_system) directory.
 
-This is a simple movie rating system implemented using Ballerina, GraphQL, and MongoDB. The system allows users to add movies and rate them. This system demonstrates how to use a MongoDB database and expose it via a GraphQL API using Ballerina.
+This is a simple movie rating system implemented using [Ballerina](https://ballerina.io), [GraphQL](https://graphql.org/), and [MongoDB](https://www.mongodb.com/). The system allows users to add movies and rate them. This system demonstrates how to use a MongoDB database and expose it via a GraphQL API using Ballerina.
 
 ### Prerequisites
 
