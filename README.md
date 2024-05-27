@@ -6,10 +6,12 @@ Each tech talk content will be under a separate directory. The directory name is
 
 The README file of each tech talk directory will include the metadata and a guide on how to use the sample code. The metadata should include:
 
+```markdown
 _Topic_: **<Tech Talk Topic>** \
 _Date_: <Date of the Tech Talk (YYYY-MM-DD)> \
 _Presenter_: <Presenter's Name with the link to GitHub Profile> \
 _Link_: <Link to the YouTube Video>
+```
 
 ## Contribute to Ballerina
 
